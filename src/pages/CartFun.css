@@ -1,0 +1,29 @@
+.btns{
+    display: flex;
+}
+
+.cartBtn{
+  font-size: 26px;
+  font-weight: 500;
+  margin: 5px;
+  /* background: none; */
+  border-radius: 50%;
+  border: 1px solid gray;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+
+.add{
+    padding: 0px 9px;
+}
+
+.sub{
+    padding: 0px 13px;
+    padding-bottom: 4px;
+}
+
+.cartVal{
+    margin: 5px;
+    font-size: 26px;
+}
